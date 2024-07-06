@@ -21,7 +21,7 @@ This project implements a simple PHP-based login and sign-up system using MySQL 
 ## Usage
 
 To run this project locally:
-1. Clone the repository: git clone https://github.com/djeghlaflydia/djeghlaflydia-Login_SignUp-form.git
+1. Clone the repository: git clone https://github.com/djeghlaflydia/SingUp_Login_form.git
 2. Configure your web server to run PHP and MySQL.
 3. Import the database schema provided in database.sql.
 4. Update conn.php with your MySQL credentials.
